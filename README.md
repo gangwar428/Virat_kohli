@@ -37,7 +37,7 @@ This dashboard provides a comprehensive view of Virat Kohli's cricket career, sh
 ---
 
 ## Picture
-![Virat Kohli Performance Dashboard](./path-to-image/Virat_Kohli.png)
+![Image](https://github.com/user-attachments/assets/656b3ef8-7f99-49ad-8bfc-e7b71382c162)
 
 ---
 
